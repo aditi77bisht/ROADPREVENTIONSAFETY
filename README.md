@@ -1,8 +1,10 @@
 ROAD_PREVENTION_SAFETY
-AI-Based Roadkill Risk Prediction in Uttarakhand.
+AI-Based Roadkill Risk Prediction in Uttarakhand ( BASICALLY THE GHARWAL REGION )
 This project focuses on predicting high-risk areas for animal-vehicle collisions (roadkill) in Uttarakhand using Machine Learning (ML) and Geospatial Mapping. The system analyzes factors like road type, traffic, wildlife presence, weather, road curvature, speed limits, and time of day to predict accident-prone locations.
 
 The output is an interactive map highlighting high-risk (red) and low-risk (green) zones to help authorities, conservationists, and drivers take preventive measures.
+THIS PROJECT IS MAINLY USING THE GHARWAL REGION AS IT CONTAINS A SYNTHETIC DATASET .
+YOU CAN ALSO APPLY TO REAL TIME DATASET WHICH CAN GIVE YOU MORE ACCURATE RESULT AND CAN BE APPLIED TO DIFFERENT REGIONS AS WELL.
 
 Technologies Used
 1. Machine Learning (Random Forest)
